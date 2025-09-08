@@ -22,7 +22,7 @@ int main()
     cout << endl << fah << " degrees Fahrenheit is equal to ";
     cout.precision(2);
     cout.setf(ios::fixed);
-    cout << cel << " degrees Celsius.\n";
+    cout << cel << " degrees Celsius!\n";
 
     return 0;
 }
